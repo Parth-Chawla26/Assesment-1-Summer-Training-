@@ -15,5 +15,5 @@ Repeats menu until user exits
 
 2.How to Run the Project Clone the repository
 
-git clone https://github.com/nitu7771414/dart-user-manager.git
+
 cd dart-user-manager
